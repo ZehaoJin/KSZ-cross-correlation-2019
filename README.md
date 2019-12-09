@@ -10,7 +10,7 @@ In this project we study kSZ(kinematic Sunyaev–Zel'dovich) effect by cross cor
 
 Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory/profile/gholder)
 
-This is an on-going project! All results are not polished nicely yet. Espeically the first plot presents the result in a werid way...
+**This is an on-going project! All results are not polished nicely yet.** Espeically the first plot presents the result in a werid way...
 
 
 ![](plot/testfig9.png)
