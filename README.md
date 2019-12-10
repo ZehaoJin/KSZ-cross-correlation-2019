@@ -13,7 +13,9 @@ Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory
 **This is an on-going project! All results are not polished nicely yet.** Espeically the first plot presents the result in a werid way...
 
 
-![](plot/testfig9.png)
+![](plot/testfig9+.png)
+grey lines are Galaxy x CMB simulations.
+I am still running sims x galaxy for the other two z bins which are missing
 
 
 
