@@ -13,10 +13,10 @@ Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory
 **This is project a almost done! We are formulating words for the Paper. * 
 
 
-![](plot/Delta_H.eps)
+![](plot/Delta_H.png)
 grey lines are Galaxy x CMB simulations.
 I am still running sims x galaxy for the other two z bins which are missing
 
 
 
-![](plot/correlation.eps)
+![](plot/correlation.png)
