@@ -10,16 +10,18 @@ In this project we study kSZ(kinematic Sunyaev–Zel'dovich) effect by cross cor
 
 Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory/profile/gholder)
 
-**This is project a almost done! We are formulating words for the Paper. **
-**My first paper! Hooray! **
+**This is project a almost done! We are formulating words for the Paper.**
+**My first paper! Hooray!**
 
 
 ![](plot/Delta_H.png)
+
 All y-errorbars are 2 sigmas
 
 
 
 
 ![](plot/correlation.png)
+
 grey thin lines are SuperCosmos Galaxy X Planck CMB simulations
 shaded is region is indicates the 1-sigma for simulations
