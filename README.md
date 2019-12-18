@@ -10,13 +10,13 @@ In this project we study kSZ(kinematic Sunyaev–Zel'dovich) effect by cross cor
 
 Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory/profile/gholder)
 
-**This is an on-going project! All results are not polished nicely yet.** Espeically the first plot presents the result in a werid way...
+**This is project a almost done! We are formulating words for the Paper. * 
 
 
-![](plot/testfig9+.png)
+![](plot/Delta_H.eps)
 grey lines are Galaxy x CMB simulations.
 I am still running sims x galaxy for the other two z bins which are missing
 
 
 
-![](plot/testfig10.png)
+![](plot/correlation.eps)
