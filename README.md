@@ -1,6 +1,6 @@
-# Updates: [paper draft on overleaf](https://www.overleaf.com/read/szngrhcfnshs)
+# Update: [paper draft on overleaf](https://www.overleaf.com/read/szngrhcfnshs)
 
-# Updates: Joshua Yao-Yu Lin and I are in the [strong lensing finding challenge 2.0.](http://metcalf1.difa.unibo.it/blf-portal/gg_challenge.html) We achieved a nearly perfect f_beta_score=0.9998 with machine learning! The repo for code is still private for now, will make it public after the challenge deadline.
+# Update: Joshua Yao-Yu Lin and I are in the [strong lensing finding challenge 2.0.](http://metcalf1.difa.unibo.it/blf-portal/gg_challenge.html) We achieved a nearly perfect f_beta_score=0.9998 with machine learning! The repo for code is still private for now, will make it public after the challenge deadline.
 
 
 # KSZ-cross-correlation-2019
