@@ -20,9 +20,9 @@ Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory
 **My first paper! Hooray!**
 
 
-![](plot/Final_plot1.png)
 ![](plot/Final_plot2.png)
 ![](plot/Final_plot3.png)
+![](plot/Final_plot1.png)
 ![](plot/Final_plot4.png)
 
 All y-errorbars are 2 sigmas
