@@ -20,14 +20,13 @@ Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory
 **My first paper! Hooray!**
 
 
-![](plot/Delta_H.png)
+![](plot/Final_plot1.png)
+![](plot/Final_plot2.png)
+![](plot/Final_plot3.png)
+![](plot/Final_plot4.png)
 
 All y-errorbars are 2 sigmas
 
 
 
 
-![](plot/correlation.png)
-
-grey thin lines are SuperCosmos Galaxy X Planck CMB simulations
-shaded is region is indicates the 1-sigma for simulations
