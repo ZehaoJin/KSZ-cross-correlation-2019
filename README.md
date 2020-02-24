@@ -21,7 +21,7 @@ Supervisor: [Prof. Gilbert Holder](https://physics.illinois.edu/people/directory
 
 
 ![](plot/Final_plot2.png)
-![](plot/Final_plot3.png)
+![](Final_plot3.png)
 ![](plot/Final_plot1.png)
 ![](plot/Final_plot4.png)
 
